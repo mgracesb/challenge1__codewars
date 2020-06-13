@@ -1,0 +1,23 @@
+{
+  "name": "dubstep",
+  "version": "1.0.0",
+  "description": "Polycarpus works as a DJ in the best Berland nightclub, and he often uses dubstep music in his performance. Recently, he has decided to take a couple of old songs and make dubstep remixes from them.",
+  "main": "app.js",
+  "dependencies": {
+    "npm": "^6.14.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgracesb/challenge1__codewars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgracesb/challenge1__codewars/issues"
+  },
+  "homepage": "https://github.com/mgracesb/challenge1__codewars#readme"
+}
